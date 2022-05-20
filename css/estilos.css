@@ -1,0 +1,59 @@
+p {
+    font-size: 15px!important;
+    line-height: 24px!important;
+}
+
+.goldBG {
+    background-color: gold;
+}
+
+.lightgrayBG {
+    background-color: lightgray!important;
+}
+
+.slategrayBG {
+    background-color: slategray!important;
+}
+
+.orangered {
+    color:orangered!important;
+}
+
+.dimgrey {
+    color: dimgrey;
+}
+
+.darkslategray {
+    color: darkslategray;
+}
+
+.white {
+    color:white!important;
+}
+
+.btMenu {
+    width: 100%;
+    color: white!important;
+    background-color: orange!important;
+    text-align: center;
+}
+
+.btMenu:hover {
+    color: yellow!important;
+    background-color: orangered!important;
+}
+
+.btMenuDest {
+    width: 100%;
+    color: yellow!important;
+    background-color: orangered!important;
+    text-align: center;
+    cursor: default!important;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+
+
+}
